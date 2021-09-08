@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/coalesce.csv/part-00000-665a5b6e-1028-46c0-baaa-af5cd19dbd41-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/coalesce.csv/part-00001-665a5b6e-1028-46c0-baaa-af5cd19dbd41-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/coalesce.csv/part-00002-665a5b6e-1028-46c0-baaa-af5cd19dbd41-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/partition.csv/part-00000-4e5938ec-a140-478a-92f5-9b1e04a8f21c-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/partition.csv/part-00000-9ecb2d75-ff09-4287-85cc-5fdad980356a-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/partition.csv/part-00001-4e5938ec-a140-478a-92f5-9b1e04a8f21c-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/partition.csv/part-00001-9ecb2d75-ff09-4287-85cc-5fdad980356a-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/partition.csv/part-00002-4e5938ec-a140-478a-92f5-9b1e04a8f21c-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/repartition.csv/part-00000-14bc8e89-520e-4e67-9628-2406412e0b4d-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/repartition.csv/part-00001-14bc8e89-520e-4e67-9628-2406412e0b4d-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baby-names.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
